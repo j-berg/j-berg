@@ -1,5 +1,8 @@
 ### Hello world 👋
 
+I am a NCI F99 Predoctoral Fellow in the Rutter Lab at the University of Utah. I develop and maintain the XPRESSyourself and Metaboverse open-source bioinformatics tools.
+
+
 <!--
 **j-berg/j-berg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
