@@ -4,5 +4,7 @@
 ☁ I am interested in systems approaches to deconvoluting metabolism.    
 🛠 I develop and maintain the [XPRESSyourself](https://github.com/XPRESSyourself/XPRESSpipe) and [Metaboverse](https://github.com/Metaboverse/Metaboverse) open-source bioinformatics tools.    
 👓 You can learn more about my previous and ongoing work at my [personal website](https://j-berg.github.io/).    
-⚡ I am always looking for collaborations in my open-source projects. Contact me [here](https://github.com/j-berg/j-berg/issues).
+⚡ I am always looking for collaborations in my open-source projects. Contact me [here](https://github.com/j-berg/j-berg/issues).  
+   
+View collaborative projects [here](https://github.com/users/j-berg/projects/8).
 
