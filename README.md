@@ -1,4 +1,4 @@
-### Hello world! 👋
+### Hello, friend 👋
 
 💡  I am a [NCI F99 Predoctoral Fellow](https://github.com/j-berg/NCI_F99_application/blob/main/Berg-Jordan_NCI-F99_2019-application_Redacted.pdf) in the [Rutter Lab](https://rutter.biochem.utah.edu/) at the [University of Utah](https://www.utah.edu/).    
 ☁ I am interested in systems approaches to deconvoluting metabolism.    
