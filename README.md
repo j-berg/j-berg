@@ -16,6 +16,7 @@ View past collaborative projects [here](https://github.com/users/j-berg/projects
 [<img align="left" alt="j-berg | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]    
 
 <br>
+
 #### Latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
