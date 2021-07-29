@@ -16,14 +16,13 @@ View past collaborative projects [here](https://github.com/users/j-berg/projects
 [<img align="left" alt="j-berg | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]    
 
 <br><br>
-#### 📕 Latest blog posts:
+#### Latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [My reading list (2021)](https://j-berg.github.io/blog/2021-07-01_My-reading-list-2021.html)
 - [Getting an F99/K00 Fellowship](https://j-berg.github.io/blog/2021-07-03_Getting-an-F99-K00-Fellowship.html)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://j-berg.github.io/blog.html)
+- [more blog posts...](https://j-berg.github.io/blog.html)
 
 
 [website]: https://j-berg.github.io
