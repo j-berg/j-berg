@@ -9,6 +9,7 @@
 View past collaborative projects [here](https://github.com/users/j-berg/projects/8).
 
 <br>
+
 #### Connect with me:
 
 [<img align="left" alt="j-berg.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
