@@ -8,8 +8,6 @@
    
 View past collaborative projects [here](https://github.com/users/j-berg/projects/8).
 
-<br>
-
 #### Connect with me:
 
 [<img align="left" alt="j-berg.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,7 +15,6 @@ View past collaborative projects [here](https://github.com/users/j-berg/projects
 [<img align="left" alt="j-berg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="j-berg | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]    
 
-<br><br>
 #### Latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
