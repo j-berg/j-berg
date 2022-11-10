@@ -1,6 +1,6 @@
 ### Hello, friend 👋
 
-💡  I am a scientist at [Altos Labs Bay Area Institute](https://altoslabs.com/), working with Ebru Erbay, Simone Bianco, and Hana El-Samad.    
+💡  I am a computational biologist at [Altos Labs Bay Area Institute](https://altoslabs.com/).    
 ☁ I am interested in systems approaches to metabolism.    
 🛠 I develop and maintain the [XPRESSyourself](https://github.com/XPRESSyourself/XPRESSpipe), [Metaboverse](https://github.com/Metaboverse/Metaboverse), and [Electrum](https://github.com/Electrum-app/Electrum) open-source bioinformatics tools.    
 👓 You can learn more about my previous and ongoing work at my [personal website](https://j-berg.github.io/).    
