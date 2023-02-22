@@ -30,3 +30,8 @@ View past collaborative projects [here](https://github.com/users/j-berg/projects
 [twitter]: https://twitter.com/jordanberg0
 [linkedin]: https://www.linkedin.com/in/jordan-a-berg/
 [googlescholar]: https://scholar.google.com/citations?user=0XsLZ3sAAAAJ&hl=en
+
+
+<a href="https://gitstar-ranking.com/j-berg" ><img
+src="https://github-readme-stats.vercel.app/api?username=j-berg&show_icons=true&theme=buefy"
+width="420" /></a>
